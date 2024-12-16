@@ -1,0 +1,12 @@
+{
+  "name": "nobody-wants-to-do-work",
+  "version": "1.0.0",
+  "description": "App to display two sites side-by-side",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
